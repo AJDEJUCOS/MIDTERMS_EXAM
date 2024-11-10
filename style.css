@@ -1,0 +1,17 @@
+body {
+	font-family: "Arial";
+}
+input {
+	font-size: 1.5em;
+	height: 50px;
+	width: 200px;
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 8px;
+    text-align: left;
+}
+th {
+    background-color: #f2f2f2;
+}
